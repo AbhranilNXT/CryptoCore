@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoCore</string>
+    <string name="error_request_timeout">The request timed out.</string>
+    <string name="too_many_requests">Oops, it seems you\'re trying too many requests!</string>
+    <string name="error_no_internet">Could not connect to server, please check your internet connection.</string>
+    <string name="error_unknown">Something went wrong. Please try again later.</string>
+    <string name="error_serialization">Couldn\'t serialize or deserialize data.</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="price">Price</string>
+    <string name="change_last_24hr">Change last 24h</string>
+</resources>
